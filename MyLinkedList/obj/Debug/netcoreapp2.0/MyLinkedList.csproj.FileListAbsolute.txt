@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\bin\Debug\netcoreapp2.0\MyLinkedList.deps.json
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\bin\Debug\netcoreapp2.0\MyLinkedList.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\bin\Debug\netcoreapp2.0\MyLinkedList.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\bin\Debug\netcoreapp2.0\MyLinkedList.dll
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\bin\Debug\netcoreapp2.0\MyLinkedList.pdb
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.dll
+C:\Users\ankitakhurana\source\repos\Course\MyLinkedList\obj\Debug\netcoreapp2.0\MyLinkedList.pdb

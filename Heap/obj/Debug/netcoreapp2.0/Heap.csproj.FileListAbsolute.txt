@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Course\Heap\bin\Debug\netcoreapp2.0\Heap.deps.json
+C:\Users\ankitakhurana\source\repos\Course\Heap\bin\Debug\netcoreapp2.0\Heap.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Course\Heap\bin\Debug\netcoreapp2.0\Heap.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Course\Heap\bin\Debug\netcoreapp2.0\Heap.dll
+C:\Users\ankitakhurana\source\repos\Course\Heap\bin\Debug\netcoreapp2.0\Heap.pdb
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.dll
+C:\Users\ankitakhurana\source\repos\Course\Heap\obj\Debug\netcoreapp2.0\Heap.pdb

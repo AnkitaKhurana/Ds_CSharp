@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Course\Graphs\bin\Debug\netcoreapp2.0\Graphs.deps.json
+C:\Users\ankitakhurana\source\repos\Course\Graphs\bin\Debug\netcoreapp2.0\Graphs.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Course\Graphs\bin\Debug\netcoreapp2.0\Graphs.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Course\Graphs\bin\Debug\netcoreapp2.0\Graphs.dll
+C:\Users\ankitakhurana\source\repos\Course\Graphs\bin\Debug\netcoreapp2.0\Graphs.pdb
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.dll
+C:\Users\ankitakhurana\source\repos\Course\Graphs\obj\Debug\netcoreapp2.0\Graphs.pdb

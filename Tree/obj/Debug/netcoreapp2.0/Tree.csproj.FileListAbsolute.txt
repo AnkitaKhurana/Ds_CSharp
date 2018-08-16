@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Course\Tree\bin\Debug\netcoreapp2.0\Tree.deps.json
+C:\Users\ankitakhurana\source\repos\Course\Tree\bin\Debug\netcoreapp2.0\Tree.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Course\Tree\bin\Debug\netcoreapp2.0\Tree.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Course\Tree\bin\Debug\netcoreapp2.0\Tree.dll
+C:\Users\ankitakhurana\source\repos\Course\Tree\bin\Debug\netcoreapp2.0\Tree.pdb
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.dll
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.pdb
+C:\Users\ankitakhurana\source\repos\Course\Tree\obj\Debug\netcoreapp2.0\Tree.csprojAssemblyReference.cache
